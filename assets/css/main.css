@@ -725,8 +725,8 @@ span {
 
 /* Logo */
 .pre-logo {
-  font-size: clamp(3.5rem, 12vw, 7rem);
-  letter-spacing: 0.25em;
+  font-size: 40px;
+  letter-spacing: 0.2em;
   color: transparent;
   -webkit-text-stroke: 1px rgba(255, 255, 255, 0.12);
   position: relative;
